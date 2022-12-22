@@ -1,7 +1,8 @@
 # qt6-core-intermediate
+
 Qt 6 Core Intermediate with C++ on Udemy
 
-    • Welcome to the Course
+    • 1) Welcome to the Course
         ◦ What does this course cover
         ◦ What this course doesn’t cover
         ◦ Challenges with intermediate
@@ -23,7 +24,7 @@ Qt 6 Core Intermediate with C++ on Udemy
         ◦ Bugs
         ◦ Reviews and feedback
         ◦ Skipped the beginners course
-    • Before we dive in
+    • 2) Before we dive in
         ◦ Changes from Qt 5
         ◦ Installing Qt
         ◦ Porting from Qt 5
@@ -31,13 +32,13 @@ Qt 6 Core Intermediate with C++ on Udemy
         ◦ When to use STD
         ◦ When to use Qt
         ◦ Building – QMake vs CMake
-    • What is a QObject
+    • 3) What is a QObject
         ◦ QObject Class
         ◦ QObject macro
         ◦ Signals and Slots
         ◦ Disable copy
         ◦ Assignment
-    • Memory Management
+    • 4) Memory Management
         ◦ Stack vs heap
         ◦ Memory leaks
         ◦ Dangling pointer
@@ -49,7 +50,7 @@ Qt 6 Core Intermediate with C++ on Udemy
         ◦ Sharing a pointer among multiple objects
         ◦ Quiz
         ◦ Assignment
-    • Collections
+    • 5) Collections
         ◦ QList
         ◦ QVector
         ◦ QSet
@@ -60,20 +61,20 @@ Qt 6 Core Intermediate with C++ on Udemy
         ◦ qDeleteAll with QMap
         ◦ QSharedPointer with QMap
         ◦ Assignment
-    • Views
+    • 6) Views
         ◦ View Classes
         ◦ QByteArrayView
         ◦ QStringview
         ◦ Quiz
         ◦ Assignment
-    • Settings
+    • 7) Settings
         ◦ What are settings
         ◦ QSettings
         ◦ Groups in QSettings
         ◦ Navigating groups
         ◦ Setting the filename
         ◦ Assignment
-    • File system
+    • 8) File system
         ◦ Intro to file systems
         ◦ Disks partitions and volumes
         ◦ Folders (Directories)
@@ -93,35 +94,35 @@ Qt 6 Core Intermediate with C++ on Udemy
         ◦ QStorageInfo
         ◦ QLockFile
         ◦ Assignment
-    • QDebug
+    • 9) QDebug
         ◦ Intercepting QDebug messages
         ◦ Creating a logger class
         ◦ Creating message categories
         ◦ QLoggingCategory
         ◦ Assignment
-    • Encoding
+    • 10) Encoding
         ◦ ASCII
         ◦ UTF-8
         ◦ UTF-16
         ◦ Base64
         ◦ Hex
         ◦ Assignment
-    • Compression
+    • 11) Compression
         ◦ What is compression
         ◦ Compression formats
         ◦ Data compression
         ◦ File compression
-        ◦ 3rd party libs 
+        ◦ 3rd party libs
         ◦ Quiz
         ◦ Assignment
-    • Serialization
+    • 12) Serialization
         ◦ What is serialization
         ◦ Serializing and deserializing data
         ◦ Serializing a class
         ◦ Serializing to JSON
         ◦ Serializing to XML
         ◦ Assignment
-    • Algorithms and macros
+    • 13) Algorithms and macros
         ◦ qDeleteAll
         ◦ Filling a container
         ◦ Sorting a container
@@ -131,7 +132,7 @@ Qt 6 Core Intermediate with C++ on Udemy
         ◦ TypeDef
         ◦ When to use Qt and when to use STD
         ◦ Assignment
-    • Working with the Operating System 
+    • 14) Working with the Operating System
         ◦ What are processes
         ◦ Basic process lifecycle
         ◦ Process IO
@@ -141,13 +142,13 @@ Qt 6 Core Intermediate with C++ on Udemy
         ◦ Process custom commands
         ◦ Exploring our process life-cycle
         ◦ Assignment
-    • Timers
+    • 15) Timers
         ◦ What are timers
         ◦ Intervals
         ◦ QFileSystemWatcher
         ◦ Process timeout
         ◦ Assignment
-    • Basic Threading
+    • 16) Basic Threading
         ◦ What are threads
         ◦ Async vs thead
         ◦ Threads are an advanced topic
@@ -157,7 +158,3 @@ Qt 6 Core Intermediate with C++ on Udemy
         ◦ QtConcurrent
         ◦ Signals and slots across threads
         ◦ Assignment
-
-
-
-
